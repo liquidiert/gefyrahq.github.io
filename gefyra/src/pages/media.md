@@ -22,6 +22,9 @@ Videos, podcasts and other media about Gefyra.
 
 
 ## Other Presentations
+**Gefyra 2.1 - self update**  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m9VjdCk46Gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **Gefyra Docker Desktop Extension Demo April 2023**  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EBArR1O2BGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

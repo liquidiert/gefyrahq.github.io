@@ -11,7 +11,7 @@ This guide describes the usage of Gefyra for the local development of a Kubernet
 application running in [Minikube](https://minikube.sigs.k8s.io/).
 
 
-**Important:** This getting started guide for [Minikube](https://minikube.sigs.k8s.io/) requires Gefyra in version **2.0.0+**.
+**Important:** This getting started guide for [Minikube](https://minikube.sigs.k8s.io/) requires Gefyra in version **>=2.0.0+**.
 
 ## Prerequisites
 1. Minikube is [installed](https://minikube.sigs.k8s.io/docs/start/) (at least in version v1.26.1)
