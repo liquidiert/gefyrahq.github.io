@@ -256,10 +256,11 @@ gefyra unbridge -N mypybridge
 
 **Arguments:**  
 
-| Argument       | Description                          |
-|:---------------|:-------------------------------------|
-| `-N`, `--name` | The name of the bridge to be removed |
-| `-A`, `--all`  | Remove all bridges at once           |
+| Argument            | Description                          |
+|:--------------------|:-------------------------------------|
+| `-N`, `--name`      | The name of the bridge to be removed |
+| `-A`, `--all`       | Remove all bridges at once           |
+| `--connection-name` | The name of the connection           |
 
 
 <!-- ### reflect
