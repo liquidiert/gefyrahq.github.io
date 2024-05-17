@@ -129,7 +129,7 @@ const config = {
           {
             href: 'https://www.blueshoe.io/gefyra/',
             position: 'right',
-            label: 'Enterprise Suppport',
+            label: 'Enterprise Support',
           },
           {
             type: 'docSidebar',
