@@ -127,6 +127,11 @@ const config = {
           //   to: '/pricing',
           // },
           {
+            href: 'https://www.blueshoe.io/gefyra/',
+            position: 'right',
+            label: 'Enterprise Suppport',
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'docsSidebar',
             docsPluginId: 'usecases',
@@ -178,6 +183,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'Blueshoe',
+                href: 'https://www.blueshoe.io/',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/gefyrahq/gefyra',
