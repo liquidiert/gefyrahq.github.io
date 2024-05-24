@@ -32,7 +32,13 @@ default    Running    x86_64    2       2GiB      60GiB    docker+k3s    192.168
 ```sh
 kubectl apply -f https://raw.githubusercontent.com/gefyrahq/gefyra/main/testing/workloads/hello.yaml
 ``` 
-Check out this workload running under: http://hello.127.0.0.1.nip.io:8080/
+
+### 4. Check the output of the deployed app with:
+```
+kubectl expose deployment hello-nginxdemo --type=LoadBalancer --port=80
+```
+
+Check out this workload running under: http://hello.127.0.0.1.nip.io/
 
 ## Running Gefyra
 
