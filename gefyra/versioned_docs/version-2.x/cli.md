@@ -364,3 +364,12 @@ gefyra telemetry --on
 |:--------------|:-------------------|
 | `--off`       | Turn off telemetry |
 | `--on` | Turn on telemetry  |
+
+
+### update
+Updates Gefyra's operator and operator webhook deployments
+
+**Example:** 
+```sh
+gefyra update
+```
